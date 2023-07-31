@@ -59,7 +59,6 @@ public class HttpRequests {
 //			.log().all();
 			
 		
-		
 	}
 	
 	@Test (priority = 3 , dependsOnMethods = {"createUser"})
